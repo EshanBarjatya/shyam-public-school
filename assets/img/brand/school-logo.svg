@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 96" role="img" aria-labelledby="title desc">
+  <title id="title">Shyam Public School logo</title>
+  <desc id="desc">A maroon shield with a golden school pediment, an open book and the letters SPS.</desc>
+  <defs>
+    <linearGradient id="shield" x1="12" y1="8" x2="76" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#93303F"/>
+      <stop offset="1" stop-color="#681A2B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="24" y1="22" x2="64" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2DDAA"/>
+      <stop offset="1" stop-color="#C79B4C"/>
+    </linearGradient>
+  </defs>
+  <path d="M44 3 80 17v28c0 22-14.2 38.8-36 48C22.2 83.8 8 67 8 45V17L44 3Z" fill="url(#shield)"/>
+  <path d="M44 8.8 74 20.5V45c0 18.1-10.9 32.4-30 41.3C24.9 77.4 14 63.1 14 45V20.5L44 8.8Z" fill="none" stroke="#E4C782" stroke-width="1.5" opacity=".68"/>
+  <path d="m22 34 22-13 22 13H22Z" fill="url(#gold)"/>
+  <path d="M28 36h32M31 40v15M39 40v15M49 40v15M57 40v15M27 58h34" fill="none" stroke="#F8E9C3" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 63c7.4-1.5 14.1.1 20 4.8 5.9-4.7 12.6-6.3 20-4.8v12c-7.4-1.5-14.1.1-20 4.8-5.9-4.7-12.6-6.3-20-4.8V63Z" fill="#F8E9C3"/>
+  <path d="M44 67.8v12" stroke="#C79B4C" stroke-width="1.5"/>
+  <text x="44" y="18.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1.4" fill="#F8E9C3">SPS</text>
+</svg>

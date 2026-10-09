@@ -1,0 +1,7 @@
+# Shyam Public School
+# NOTE: while this site is a development build, keep crawling disallowed.
+# Before launch, delete the Disallow line below and set the real sitemap URL.
+User-agent: *
+Disallow: /
+
+Sitemap: https://example.com/sitemap.xml
